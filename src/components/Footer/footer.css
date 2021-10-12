@@ -1,0 +1,22 @@
+.footer{
+    background-color: #ff8fc9;
+    padding: 2% 2% 2% 2%;
+}
+
+.logo_img_footer{
+    margin-left: 15%;
+    margin-right: 10%;
+    width: 200px;
+    height: 120px;
+}
+
+.image1{
+    margin-right: 10%;
+    width: 75px;
+    height: 75px;
+    border-radius: 15px;
+}
+
+.image1:hover{
+    box-shadow: 3px 3px 40px #C71585;
+}
